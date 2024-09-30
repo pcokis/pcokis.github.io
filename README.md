@@ -12,9 +12,10 @@ To clone the repository I went on the GitHub Desktop application, opened the fil
 # About Me
 ## My Interests
 * My favorite subjects are math and computer science.
+* I enjoy building and creating projects through programming.
 * I am the lead software member on our robotics team.
   * We compete in the FIRST Tech Challenge.
-* I enjoy building and creating projects through programming.
+  * You can find our team's website [here](https://www.fotmrobotics.org) and our GitHub page [here](https://github.com/FOTMrobotics).
 ## Websites I Recommend
 * [Google](https://www.google.com)
   * Google is helpful for researching topics.
