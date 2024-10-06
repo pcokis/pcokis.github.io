@@ -16,7 +16,7 @@ flowchart TD
     Check3{num < guess}
     NumberLess[User is told the number is less than their guess]
     
-    GuessCorrect[User is told they guessed correctly and won the game]
+    GuessCorrect[User is told they guessed correctly and has won the game]
 
     End([End])
     
